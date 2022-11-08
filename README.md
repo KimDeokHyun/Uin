@@ -14,4 +14,4 @@ I'm a persistent person, who study hard day and night for be a good developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDeokHyun&layout=compact&theme=tokyonight)
 
-<img src="https://img.shields.io/badge/css-green?style=flat&logo=Sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/html-black?style=flat&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/css-green?style=flat&logo=Sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/html-black?style=flat&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=3776AB"/>
